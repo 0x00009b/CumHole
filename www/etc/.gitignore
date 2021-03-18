@@ -1,0 +1,16 @@
+# common
+.bash_logout
+.bashrc
+.profile
+.config/
+.replit/
+.upm/
+.env
+
+# nodejs-specific
+node_modules/
+.cache/
+.npm/
+.npmrc
+.yarnrc
+config.json
